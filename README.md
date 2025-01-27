@@ -23,7 +23,7 @@ Bu uygulama, YouTube videolarını ve ses dosyalarını indirmek için geliştir
 
 1. Depoyu klonlayın:
 ```bash
-[git clone https://github.com/kullanici/youtube_download.git][git clone https://github.com/APPALLO/APPALLO-Youtube_Downloader.git]
+[git clone https://github.com/APPALLO/APPALLO-Youtube_Downloader.git]
 cd APPALLO-Youtube_Downloader
 ```
 
