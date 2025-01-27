@@ -1,5 +1,5 @@
 # YouTube İndirme Uygulaması
-
+Önemli Not: Son sürümünü indirmeniz önerilir...
 Bu uygulama, YouTube videolarını ve ses dosyalarını indirmek için geliştirilmiş bir masaüstü uygulamasıdır.
 
 ## Özellikler
